@@ -12,7 +12,7 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '^/api/.*': {
-        target: 'https://localhost:8443',
+        target: 'https://spring-app:8443',
         changeOrigin: true,
         secure: false, // accept self-signed cert
         rewrite: (path) => path.replace(/^\/api/, '/api'),
