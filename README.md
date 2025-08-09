@@ -96,7 +96,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone [<your-repository-url>](https://github.com/khatiazitanishvili/spring-blog-webapp.git)
    cd spring-blog-webapp
    ```
 
