@@ -1,6 +1,7 @@
 # Spring Blog Web Application
 
 A full-stack blog web application built with Spring Boot backend and React frontend, featuring comprehensive blog management, user authentication, and modern UI components.
+<img width="1603" height="883" alt="Screenshot 2025-08-04 at 14 34 40" src="https://github.com/user-attachments/assets/7c1dd138-73f8-49c1-9e03-db07802cc8cd" />
 
 ---
 
@@ -96,7 +97,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone [<your-repository-url>](https://github.com/khatiazitanishvili/spring-blog-webapp.git)
+   git clone https://github.com/khatiazitanishvili/spring-blog-webapp.git
    cd spring-blog-webapp
    ```
 
